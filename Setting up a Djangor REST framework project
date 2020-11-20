@@ -1,0 +1,6 @@
+Setting up a Djangor REST framework project
+
+1. create a project folder > mkdir <folder-name>
+2. cd into <folder-name>
+3. create a virtual environment to isolate project with its own requirements > python -m venv <folder-name>
+4. on windows activate venv using command > <folder-name>\Scripts\activate
